@@ -8,4 +8,4 @@ then
 else
     echo "given number is not greater than 10"
 
- f1       
+ fi      
